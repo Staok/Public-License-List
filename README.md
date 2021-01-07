@@ -36,6 +36,8 @@ https://github.com/ufal/public-license-selector        Tool that will help you s
 | The BSD 3-Clause "New" or "Revised" License (BSD) | http://opensource.org/licenses/BSD-3-Clause |
 | The MIT License (MIT) | http://opensource.org/licenses/mit-license.php |
 
+![0](README.assets/0.jpg)
+
 ## 不正经的（Funny）
 
 | License name                                | URL                                             |
