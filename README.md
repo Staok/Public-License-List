@@ -9,7 +9,7 @@ List of licenses that can be chosen.
 
 https://github.com/ufal/public-license-selector        Tool that will help you select the right open license for your data or software
 
-## 正经的（Serious）
+## 正经的（Official）
 
 |License name | URL |
 |-------------|-----|
@@ -38,7 +38,7 @@ https://github.com/ufal/public-license-selector        Tool that will help you s
 
 ![0](README.assets/0.jpg)
 
-## 不正经的（Funny）
+## 不正经的（Unofficial）
 
 | License name                                | URL                                             |
 | ------------------------------------------- | ----------------------------------------------- |
