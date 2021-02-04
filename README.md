@@ -5,9 +5,17 @@ List of licenses that can be chosen.
 
 ------
 
-## 这是一个开源协议选择器（public-license-selector）
+## 杂项
 
-https://github.com/ufal/public-license-selector        Tool that will help you select the right open license for your data or software
+-   这是一篇不错的介绍开源协议的文章
+
+    [当你决定把代码开源之前先选择一个合适的 License](https://zhuanlan.zhihu.com/p/24575976)
+
+-   这是一个开源协议选择器
+
+    [public-license-selector](https://github.com/ufal/public-license-selector)——Tool that will help you select the right open license for your data or software
+
+    
 
 ## 正经的（Official）
 
@@ -36,19 +44,25 @@ https://github.com/ufal/public-license-selector        Tool that will help you s
 | The BSD 3-Clause "New" or "Revised" License (BSD) | http://opensource.org/licenses/BSD-3-Clause |
 | The MIT License (MIT) | http://opensource.org/licenses/mit-license.php |
 
+下图出处：乌克兰程序员 Paul Bagwell 画了一张分析图（图为阮一峰汉化版 http://www.ruanyifeng.com/blog/ Cc-By-3.0 / 2011.5.2）
+
 ![0](README.assets/0.jpg)
+
+下图出处：见图中右下角
+
+![v2-6c514b8367e715c7b18aee327560e045_720w](README.assets/v2-6c514b8367e715c7b18aee327560e045_720w.png)
 
 ## 不正经的（Unofficial）
 
-| License name                                | URL                                             |
-| ------------------------------------------- | ----------------------------------------------- |
-| "Good Luck With That" Public License        | https://github.com/me-shaon/GLWTPL              |
-| DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE | https://github.com/anak10thn/WTFPL              |
-| Dont Be a Dick Public License               | https://github.com/philsturgeon/dbad            |
-| The Sandia Message Public License           | https://github.com/cdanis/sandia-public-license |
-| SAY NO TO SUICIDE PUBLIC LICENSE            | https://github.com/unbug/snts                   |
-| etc.                                        |                                                 |
-|                                             |                                                 |
-|                                             |                                                 |
-|                                             |                                                 |
+| License name                                    | URL                                                          |
+| ----------------------------------------------- | ------------------------------------------------------------ |
+| "Good Luck With That" Public License            | https://github.com/me-shaon/GLWTPL                           |
+| DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE     | https://github.com/anak10thn/WTFPL                           |
+| Dont Be a Dick Public License                   | https://github.com/philsturgeon/dbad                         |
+| The Sandia Message Public License               | https://github.com/cdanis/sandia-public-license              |
+| SAY NO TO SUICIDE PUBLIC LICENSE                | https://github.com/unbug/snts                                |
+| The Star And Thank Author License(SATA License) | https://github.com/zTrix/sata-license；一篇中文介绍：[SATA License——开源的泥石流](https://blog.csdn.net/qq_30242609/article/details/54835687) |
+| etc.                                            |                                                              |
+|                                                 |                                                              |
+|                                                 |                                                              |
 
