@@ -1,4 +1,9 @@
+
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a>
+
 # Public License List
+
 罗列各种开源代码的公共协议以供选择。
 
 List of licenses that can be chosen.
@@ -15,7 +20,11 @@ List of licenses that can be chosen.
 
     [public-license-selector](https://github.com/ufal/public-license-selector)——Tool that will help you select the right open license for your data or software
 
-    
+-   关于 CC 协议的详细介绍
+
+    [CC 协议使用 FAQ](https://zhuanlan.zhihu.com/p/22320679)
+
+
 
 ## 正经的（Official）
 
