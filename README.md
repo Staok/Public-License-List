@@ -23,6 +23,8 @@ List of licenses that can be chosen.
 -   关于 CC 协议的详细介绍
 
     [CC 协议使用 FAQ](https://zhuanlan.zhihu.com/p/22320679)
+    
+    [所有 Creative Commons 协议的罗列和选择](https://creativecommons.org/licenses/)
 
 
 
