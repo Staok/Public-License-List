@@ -25,6 +25,8 @@ List of licenses that can be chosen.
     [CC 协议使用 FAQ](https://zhuanlan.zhihu.com/p/22320679)
     
     [所有 Creative Commons 协议的罗列和选择](https://creativecommons.org/licenses/)
+    
+    [知识共享@中国大陆 - 知识共享中国大陆项目官方网站 (creativecommons.net.cn)](http://creativecommons.net.cn/)
 
 
 
