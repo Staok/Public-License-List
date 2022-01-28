@@ -1,7 +1,3 @@
-
-
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a>
-
 # Public License List
 
 罗列各种开源代码的公共协议以供选择。具体每一个协议的含义可以另外找教程文章或看官网原文，这里解决“都有什么”的问题。
