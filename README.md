@@ -30,7 +30,7 @@ List of licenses that can be chosen.
 
 |License name | URL |
 |-------------|-----|
-| Affero General Public License 3 (AGPL-3.0) | http://opensource.org/licenses/AGPL-3.0 |
+| **Affero General Public License 3 (AGPL-3.0)** | http://opensource.org/licenses/AGPL-3.0 |
 | Apache License 2 | http://www.apache.org/licenses/LICENSE-2.0 |
 | Artistic License 1.0 | http://opensource.org/licenses/Artistic-Perl-1.0 |
 | Artistic License 2.0 | http://opensource.org/licenses/Artistic-2.0 |
@@ -39,7 +39,7 @@ List of licenses that can be chosen.
 | Creative Commons Attribution-NoDerivs (CC-BY-ND) | http://creativecommons.org/licenses/by-nd/4.0/ |
 | Creative Commons Attribution-NonCommercial (CC-BY-NC) | http://creativecommons.org/licenses/by-nc/4.0/ |
 | Creative Commons Attribution-NonCommercial-NoDerivs (CC-BY-NC-ND) | http://creativecommons.org/licenses/by-nc-nd/4.0/ |
-| Creative Commons Attribution-NonCommercial-ShareAlike (CC-BY-NC-SA) | http://creativecommons.org/licenses/by-nc-sa/4.0/ |
+| **Creative Commons Attribution-NonCommercial-ShareAlike (CC-BY-NC-SA)** | http://creativecommons.org/licenses/by-nc-sa/4.0/ |
 | Creative Commons Attribution-ShareAlike (CC-BY-SA) | http://creativecommons.org/licenses/by-sa/4.0/ |
 | Eclipse Public License 1.0 (EPL-1.0) | http://opensource.org/licenses/EPL-1.0 |
 | GNU General Public License 2 or later (GPL-2.0) | http://opensource.org/licenses/GPL-2.0 |
@@ -52,6 +52,44 @@ List of licenses that can be chosen.
 | The BSD 2-Clause "Simplified" or "FreeBSD" License | http://opensource.org/licenses/BSD-2-Clause |
 | The BSD 3-Clause "New" or "Revised" License (BSD) | http://opensource.org/licenses/BSD-3-Clause |
 | The MIT License (MIT) | http://opensource.org/licenses/mit-license.php |
+
+## 开源协议的选择
+
+### 对几个常用开源协议的简短说明
+
+- AGPL-3.0：
+
+  > 引自 [AGPL 开源授权协议_cnhome的博客-CSDN博客_agpl](https://blog.csdn.net/cnhome/article/details/118650665)，[GPL和AGPLv3的区别_KeepLearningBigData的博客-CSDN博客_agpl gpl](https://xubo245.blog.csdn.net/article/details/47278403)。
+  >
+  > AGPL = GPL + 一条限制。
+  >
+  > - GPL：如果你使用的GPL的代码作为基础完成你自己的软件，如果你要分发你的软件，你的软件必须也是GPL的。如果使用GPL成分的软件通过互联网或者其他方式发布，就必须提供源代码。
+  > - 一条限制：如果使用AGPL许可的软件与用户通过网络进行交互，也需要提供源代码给用户，所有的修改也要给用户。
+  >
+  > GPL 和 AGPLv3 的区别：
+  >
+  > - GPL v3 协议，意味着修改和使用其代码都需要开源，但是这是建立在软件分发的基础上，如果使用代码作为服务提供，而不分发软件，则不需要开源。这实际上是 GPL 协议本身的缺陷。
+  > - AGPL v3 协议，也就是说，除非获得商业授权，否则无论以何种方式修改或者使用代码，都需要开源。
+
+- MIT：限制几乎是最少的开源协议。
+
+  > 引自 [MIT开源协议_yanqing0924的博客-CSDN博客_mit开源协议](https://blog.csdn.net/yanqing0924/article/details/6111420)。
+  >
+  > - 被授权人权利：被授权人有权利使用、复制、修改、合并、出版发行、散布、再授权及贩售软件及软件的副本；被授权人可根据程序的需要修改许可协议为适当的内容。
+  > - 被授权人义务：在软件和软件的所有副本中都必须包含版权声明和许可声明。
+  > - 其他重要特性：此许可协议并非属copyleft的自由软件许可协议，允许在自由及开放源代码软件或非自由软件（proprietary software）所使用；MIT的内容可依照程序著作权者的需求更改内容，此亦为MIT与BSD（The BSD license, 3-clause BSD license）本质上不同处；MIT许可协议可与其他许可协议并存，另外，MIT条款也是自由软件基金会（FSF）所认可的自由软件许可协议，与GPL兼容。
+
+- CC-BY-NC-SA 4.0：
+
+  > 引自 [YunYouJun/yun: ☁️ 小云设定资源大公开！ (github.com)](https://github.com/YunYouJun/yun)。
+  >
+  > 简而言之，在非商业使用与署名（发布时注明原设出处即可）的前提下，您可以任意对其进行修改（包括但不限于 P 图、二次创作）、印刷、分发等。
+
+### 其它更多协议的详细描述
+
+[开源软件许可协议介绍_Dave888Zhou的博客-CSDN博客_gpl开源协议](https://blog.csdn.net/zhoudaxia/article/details/8044129)。
+
+### 用图描述开源协议的选择
 
 下图出处：乌克兰程序员 Paul Bagwell 画了一张分析图（图为阮一峰汉化版 http://www.ruanyifeng.com/blog/ Cc-By-3.0 / 2011.5.2）
 
