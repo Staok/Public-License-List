@@ -51,7 +51,7 @@ List of licenses that can be chosen.
 | Public Domain Mark (PD) | http://creativecommons.org/publicdomain/mark/1.0/ |
 | The BSD 2-Clause "Simplified" or "FreeBSD" License | http://opensource.org/licenses/BSD-2-Clause |
 | The BSD 3-Clause "New" or "Revised" License (BSD) | http://opensource.org/licenses/BSD-3-Clause |
-| The MIT License (MIT) | http://opensource.org/licenses/mit-license.php |
+| **The MIT License (MIT)** | http://opensource.org/licenses/mit-license.php |
 
 ## 开源协议的选择
 
@@ -88,6 +88,8 @@ List of licenses that can be chosen.
 ### 其它更多协议的详细描述
 
 [开源软件许可协议介绍_Dave888Zhou的博客-CSDN博客_gpl开源协议](https://blog.csdn.net/zhoudaxia/article/details/8044129)。
+
+[详细介绍六种开源协议（程序员须知） - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/136809734)。
 
 ### 用图描述开源协议的选择
 
