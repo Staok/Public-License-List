@@ -55,6 +55,14 @@ List of licenses that can be chosen.
 
 ## 开源协议的选择
 
+### CC 协议
+
+对于非编程代码的个人作品如图片、文字等可选择使用 CC 协议。
+
+都有什么：[About CC Licenses - Creative Commons](https://creativecommons.org/about/cclicenses/)。
+
+在每个协议页面下面有 [use the license](https://creativecommons.org/choose/results-one?license_code=by-nc-sa&jurisdiction=&version=4.0&lang=zh)（这个以 CC BY-NC-SA 为例），点进去可以获得该协议的图标，可以加到 个人作品 中 表示 使用该协议，他人使用您的作品需要遵守该协议的规则。
+
 ### 对几个常用开源协议的简短说明
 
 - AGPL-3.0：
